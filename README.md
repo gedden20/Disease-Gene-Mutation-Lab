@@ -37,3 +37,9 @@ how frameshift vs. nonsense mutations differ in their effects.
 - `03_artificial_mutation/` — self-designed 1-nt deletion mutant CDS and protein
 - `04_results/` — alignment output and summary tables
 - `05_report/` — final written report
+
+## Disease and Gene Background
+Retinoblastoma is a malignant tumor of the developing retina caused by
+biallelic loss of RB1 function (Knudson two-hit model). RB1 encodes
+pRB, a nuclear tumor suppressor that regulates the G1/S cell cycle
+checkpoint by binding E2F transcription factors.
