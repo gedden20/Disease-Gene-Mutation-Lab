@@ -1,0 +1,113 @@
+########################################
+# Program: needle
+# Rundate: Tue 15 Sep 2026 04:57:46
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79759350/inputs/dataset_b9c143a1-f05c-46a1-a169-dd5867fc7af6.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79759350/inputs/dataset_a6f7c9f0-7c18-4c21-a951-dfe96cb1c402.dat
+#    -outfile /jetstream2/scratch/main/jobs/79759350/outputs/dataset_297fc517-5cdf-4398-9d0b-ce9172c5ca9a.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/79759350/outputs/dataset_297fc517-5cdf-4398-9d0b-ce9172c5ca9a.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 163-2949_1
+# 2: RB1_E125Ter_mutant_protein_truncated
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 929
+# Identity:     124/929 (13.3%)
+# Similarity:   124/929 (13.3%)
+# Gaps:         805/929 (86.7%)
+# Score: 665.0
+# 
+#
+#=======================================
+
+163-2949_1         1 MPPKTPRKTAATAAAAAAEPPAPPPPPPPEEDPEQDSGPEDLPLVRLEFE     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+RB1_E125Ter_m      1 MPPKTPRKTAATAAAAAAEPPAPPPPPPPEEDPEQDSGPEDLPLVRLEFE     50
+
+163-2949_1        51 ETEEPDFTALCQKLKIPDHVRERAWLTWEKVSSVDGVLGGYIQKKKELWG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+RB1_E125Ter_m     51 ETEEPDFTALCQKLKIPDHVRERAWLTWEKVSSVDGVLGGYIQKKKELWG    100
+
+163-2949_1       101 ICIFIAAVDLDEMSFTFTELQKNIEISVHKFFNLLKEIDTSTKVDNAMSR    150
+                     ||||||||||||||||||||||||                          
+RB1_E125Ter_m    101 ICIFIAAVDLDEMSFTFTELQKNI--------------------------    124
+
+163-2949_1       151 LLKKYDVLFALFSKLERTCELIYLTQPSSSISTEINSALVLKVSWITFLL    200
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       201 AKGEVLQMEDDLVISFQLMLCVLDYFIKLSPPMLLKEPYKTAVIPINGSP    250
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       251 RTPRRGQNRSARIAKQLENDTRIIEVLCKEHECNIDEVKNVYFKNFIPFM    300
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       301 NSLGLVTSNGLPEVENLSKRYEEIYLKNKDLDARLFLDHDKTLQTDSIDS    350
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       351 FETQRTPRKSNLDEEVNVIPPHTPVRTVMNTIQQLMMILNSASDQPSENL    400
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       401 ISYFNNCTVNPKESILKRVKDIGYIFKEKFAKAVGQGCVEIGSQRYKLGV    450
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       451 RLYYRVMESMLKSEEERLSIQNFSKLLNDNIFHMSLLACALEVVMATYSR    500
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       501 STSQNLDSGTDLSFPWILNVLNLKAFDFYKVIESFIKAEGNLTREMIKHL    550
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       551 ERCEHRIMESLAWLSDSPLFDLIKQSKDREGPTDHLESACPLNLPLQNNH    600
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       601 TAADMYLSPVRSPKKKGSTTRVNSTANAETQATSAFQTQKPLKSTSLSLF    650
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       651 YKKVYRLAYLRLNTLCERLLSEHPELEHIIWTLFQHTLQNEYELMRDRHL    700
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       701 DQIMMCSMYGICKVKNIDLKFKIIVTAYKDLPHAVQETFKRVLIKEEEYD    750
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       751 SIIVFYNSVFMQRLKTNILQYASTRPPTLSPIPHIPRSPYKFPSSPLRIP    800
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       801 GGNIYISPLKSPYKISEGLPTPTKMTPRSRILVSIGESFGTSEKFQKINQ    850
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       851 MVCNSDRVLKRSAEGSNPPKPLKKLRFDIEGSDEADGSKHLPGESKFQQK    900
+                                                                       
+RB1_E125Ter_m    124 --------------------------------------------------    124
+
+163-2949_1       901 LAEMTSTRTRMQKQKMNDSMDTSNKEEK*    929
+                                                  
+RB1_E125Ter_m    124 -----------------------------    124
+
+
+#---------------------------------------
+#---------------------------------------
