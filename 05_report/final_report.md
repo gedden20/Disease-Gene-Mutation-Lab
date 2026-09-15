@@ -102,8 +102,12 @@ The RB1 c.373G>T (p.Glu125Ter) mutation is a nonsense mutation that introduces a
 
 ## 12. References
 
-1. National Center for Biotechnology Information. RB1 RB transcriptional corepressor 1 [Homo sapiens]. Gene ID: 5925.
-2. NCBI Reference Sequence: NM_000321.3, Homo sapiens RB transcriptional corepressor 1 (RB1), transcript variant 1, mRNA.
-3. NCBI Reference Sequence: NP_000312.2, retinoblastoma-associated protein isoform 1.
-4. ClinVar. NM_000321.3(RB1):c.373G>T (p.Glu125Ter). Variation ID: 1334098, Accession VCV001334098.5. National Center for Biotechnology Information. Accessed [date].
-5. ClinGen. RB1 Gene Dosage Sensitivity Curation.
+National Center for Biotechnology Information. (n.d.). *RB1 RB transcriptional corepressor 1 [Homo sapiens (human)]* (Gene ID: 5925). U.S. National Library of Medicine. https://www.ncbi.nlm.nih.gov/gene/5925 (Accessed September 15, 2026)
+
+National Center for Biotechnology Information. (n.d.). *Homo sapiens RB transcriptional corepressor 1 (RB1), transcript variant 1, mRNA* (NCBI Reference Sequence No. NM_000321.3). U.S. National Library of Medicine. https://www.ncbi.nlm.nih.gov/nuccore/NM_000321.3 (Accessed September 15, 2026)
+
+National Center for Biotechnology Information. (n.d.). *Retinoblastoma-associated protein isoform 1 [Homo sapiens]* (NCBI Reference Sequence No. NP_000312.2). U.S. National Library of Medicine. https://www.ncbi.nlm.nih.gov/protein/NP_000312.2 (Accessed September 15, 2026)
+
+National Center for Biotechnology Information. (n.d.). *NM_000321.3(RB1):c.373G>T (p.Glu125Ter)* (ClinVar Variation ID No. 1334098, Accession No. VCV001334098.5). U.S. National Library of Medicine. https://www.ncbi.nlm.nih.gov/clinvar/variation/1334098/ (Accessed September 15, 2026)
+
+Clinical Genome Resource. (n.d.). *RB1 gene dosage sensitivity curation*. https://search.clinicalgenome.org/kb/genes/HGNC:9884 (Accessed September 15, 2026)
